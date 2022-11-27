@@ -1,0 +1,7 @@
+print("Podaj swoje imię")
+imię = input()
+print("Cześć " + imię)
+print("Ile masz lat?")
+wiek = int(input())
+print("Miło mi znać Twój wiek " + imię)
+print(wiek + " lat to bardzo fajny wiek :)")
